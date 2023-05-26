@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @42389
+- 👀 I’m interested in coding 
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on absolutly nothing because i dont know how to code
+- 📫 How to reach me: you shouldn't
